@@ -22,7 +22,7 @@ you can use following commands to install pyttsx3, speech_recognition , wikipedi
 
 ```
 1.pip install pyttsx3
-2.pip install speech_recognition
+2.pip install SpeechRecognition
 3.pip install datetime
 4.pip install wikipedia
 
