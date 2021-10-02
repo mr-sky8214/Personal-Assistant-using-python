@@ -26,7 +26,7 @@ def wishMe(name):
         speak(f"Good afternoon {name}")
     else:
         speak(f"Good evening {name}")
-    speak("I'm your personal assistant Mr. Sky. How may I assist you?")
+    speak(f" Mr. {name} , I'm your personal assistant. How may I assist you?")
 
 
 def takeCommand():
