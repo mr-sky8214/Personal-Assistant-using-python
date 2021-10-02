@@ -13,7 +13,7 @@ You can download and run this code. It supports all Python supported text editor
 
 Clone the repo. and setup python environment
 ```
-git clone https://github.com/sanketmote/COVID19-Data-Analysis-and-Visualization
+git clone https://github.com/mr-sky8214/Personal-Assistant-using-python.git
 
 ```
 To run code , you need pyttsx3, speech_recognition , wikipedia  and datetime libraries to setup environment.
