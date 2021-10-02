@@ -7,6 +7,27 @@ Following are some modules that will be required for running this project:
   3. datetime
   4. speech_recognition
   
+# Installation :
+
+You can download and run this code. It supports all Python supported text editors
+
+Clone the repo. and setup python environment
+```
+git clone https://github.com/sanketmote/COVID19-Data-Analysis-and-Visualization
+
+```
+To run code , you need pyttsx3, speech_recognition , wikipedia  and datetime libraries to setup environment.
+
+you can use following commands to install pyttsx3, speech_recognition , wikipedia  and datetime  libraries in cmd or powershell or linux terminal:
+
+```
+1.pip install pyttsx3
+2.pip install speech_recognition
+3.pip install datetime
+4.pip install wikipedia
+
+```
+
  This system can do following things:
   1.Opening youTube
   2.Opening google
